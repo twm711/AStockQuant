@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx>=0.27
+pydantic-settings>=2.5
+pandas>=2.2
+numpy>=1.26
+duckdb>=1.1
+SQLAlchemy>=2.0
+# TA-Lib>=0.5  # optional: install system ta-lib first
